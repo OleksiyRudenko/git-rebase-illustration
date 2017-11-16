@@ -15,10 +15,10 @@ the effect of rebase operations.
 **Legend**
  * `A`, `B` etc. - commits
  * `A'`, `A''` etc. - rebased commits
- * __dev__ - branch name
+ * _dev_ - branch name
 
 ## Initial state
 
-There is some story of project development and __master__ represents
+There is some story of project development and _master_ represents
 released product, with latest commits `A` and `B`. At `B` new development
-branch __dev__ has started.
+branch _dev_ has started.
