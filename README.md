@@ -19,3 +19,6 @@ the effect of rebase operations.
 
 ## Initial state
 
+There is some story of project development and __master__ represents
+released product, with latest commits `A` and `B`. At `B` new development
+branch __dev__ has started.
