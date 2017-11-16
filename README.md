@@ -1,4 +1,4 @@
-# git rebase techniques
+# Git Rebase Techniques
 
 This repo is designated for experiments with rebasing.
 
