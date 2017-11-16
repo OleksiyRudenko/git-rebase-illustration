@@ -11,3 +11,11 @@ and their rebased variations (e.g. `A'`, `B'`, `B''` etc.)
 
 Decorated one-line logs of this repo are used to illustrate
 the effect of rebase operations.
+
+**Legend**
+ * `A`, `B` etc. - commits
+ * `A'`, `A''` etc. - rebased commits
+ * __dev__ - branch name
+
+## Initial state
+
