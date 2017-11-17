@@ -68,7 +68,10 @@ Should you anyway run into merger conflict:
  
 Note that your commits are assigned with different hashes. `F => F'`
 
+
 G1 G2
 G3
 G4
 
+H1
+H2
