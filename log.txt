@@ -1,9 +1,0 @@
-*        65dfd56 F (HEAD -> dev)
-| *      0b160f5 E (origin/dev)
-|/  
-*        801f263 C
-| *      e58c3c0 D (origin/master, master)
-|/  
-*        bdef04a B
-*        9fa8598 A
-*        6b2487d Init

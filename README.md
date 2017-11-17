@@ -67,3 +67,8 @@ Should you anyway run into merger conflict:
  1. `git rebase --continue` to complete
  
 Note that your commits are assigned with different hashes. `F => F'`
+
+G1 G2
+G3
+G4
+
