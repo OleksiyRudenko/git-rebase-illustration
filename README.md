@@ -1,3 +1,6 @@
+The below's been moved to a dedicated [gist](https://gist.github.com/OleksiyRudenko/232e1ebe6ed0780fc69d7391723cc75b)
+which is also updated and a bit ahead of the instructions below.
+
 # Git Rebase Techniques
 
 This repo is designated for experiments with rebasing.
